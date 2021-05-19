@@ -1,0 +1,16 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\5-ProblemSolvingTechniques\2-IOstreams\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.exe
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\bin\Debug\SimpleTextFileDemo.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.FrmSimpleTextFile.resources
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.exe
+E:\Visual Studio Projects\C# Intermediate Programming\1-NewSimpleTextFileDemo\SimpleTextFileDemo\obj\Debug\SimpleTextFileDemo.pdb
